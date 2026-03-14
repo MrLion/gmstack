@@ -180,6 +180,7 @@ function findTemplates(): string[] {
     path.join(ROOT, 'ship', 'SKILL.md.tmpl'),
     path.join(ROOT, 'review', 'SKILL.md.tmpl'),
     path.join(ROOT, 'plan-ceo-review', 'SKILL.md.tmpl'),
+    path.join(ROOT, 'plan-pm-review', 'SKILL.md.tmpl'),
     path.join(ROOT, 'plan-eng-review', 'SKILL.md.tmpl'),
     path.join(ROOT, 'retro', 'SKILL.md.tmpl'),
     path.join(ROOT, 'gstack-upgrade', 'SKILL.md.tmpl'),

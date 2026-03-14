@@ -45,6 +45,7 @@ gstack/
 ├── ship/            # Ship workflow skill
 ├── review/          # PR review skill
 ├── plan-ceo-review/ # /plan-ceo-review skill
+├── plan-pm-review/  # /plan-pm-review skill
 ├── plan-eng-review/ # /plan-eng-review skill
 ├── retro/           # Retrospective skill
 ├── setup            # One-time setup: build binary + symlink skills
